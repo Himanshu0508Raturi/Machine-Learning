@@ -1,4 +1,0 @@
-### Dependencies
-streamlit
-numpy
-tensorflow
