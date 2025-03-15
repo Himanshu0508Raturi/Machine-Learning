@@ -28,10 +28,10 @@ Each project contains:
 - **Dataset**: [Kaggle Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 - **Results**: Accuracy comparison of models
 
-### 2️⃣ **Plant Disease Detection** 🌿
-- **Description**: A deep learning model to detect plant diseases from leaf images.
-- **Tech Stack**: Python, TensorFlow/Keras, OpenCV
-- **Dataset**: Custom dataset (collected from various sources)
+### 2️⃣ **Iris Flower Prediction** 🌿
+- **Description**: A deep learning model to classify iris flowers based on petal and sepal dimensions.
+- **Tech Stack**: Python, TensorFlow/Keras, Scikit-Learn
+- **Dataset**: Iris Dataset (from Kaggle)
 - **Deployment**: Hosted on AWS EC2 using Streamlit
 
 ### Prerequisites
