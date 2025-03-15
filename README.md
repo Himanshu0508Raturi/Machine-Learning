@@ -7,10 +7,17 @@ This repository is structured as follows:
 
 ```
 ├── 📂 Heart_disease_prediction/
-│   ├── dataset/
-│   ├── notebooks/
-│   ├── model/
-|   |── heart_disease_app.py
+│   ├── heart_disease_app.py
+│   ├── heart_disease_prediction_system.ipynb
+│   ├── heart.csv (Dataset)
+|   |── random_forest-model
+|   |── README.md
+├── 📂 Iris flower prediction(Naive bayes)/
+│   ├── app.py
+│   ├── Book1.xlsx (Dataset)
+│   ├── iris.ipynb
+|   |── Naive_bayes_model
+|   |── README.md
 
 ...
 ```
@@ -31,7 +38,7 @@ Each project contains:
 ### 2️⃣ **Iris Flower Prediction** 🌿
 - **Description**: A deep learning model to classify iris flowers based on petal and sepal dimensions.
 - **Tech Stack**: Python, TensorFlow/Keras, Scikit-Learn
-- **Dataset**: Iris Dataset (from Kaggle)
+- **Dataset**: [Iris Dataset (from Kaggle)](https://www.kaggle.com/datasets/uciml/iris)
 - **Deployment**: Hosted on AWS EC2 using Streamlit
 
 ### Prerequisites
