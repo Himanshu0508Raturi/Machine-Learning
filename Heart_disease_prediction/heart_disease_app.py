@@ -101,6 +101,7 @@ st.markdown("""
 ---
 ### 🛠️ Developed and Deployed by: **Himanshu Raturi**
 ### Contact -
-🌍 GitHub: https://github.com/Himanshu0508Raturi/Machine-Learning.git
-🔗 LinkedIn: https://www.linkedin.com/in/himanshu-raturi-99ab0728b/
+🌍 GitHub: [GitHub Profile](https://github.com/Himanshu0508Raturi/Machine-Learning)  
+🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/himanshu-raturi-99ab0728b/)
+
 """)
