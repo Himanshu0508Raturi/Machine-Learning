@@ -6,7 +6,7 @@ from sklearn.preprocessing import StandardScaler
 
 # Load the trained model and dataset
 model = joblib.load('Heart_disease_prediction/random_forest_model')
-dataset = pd.read_csv('heart.csv')
+dataset = pd.read_csv('Heart_disease_prediction/heart.csv')
 scaler = StandardScaler()
 
 # Fit the scaler on the dataset (excluding the target column)
