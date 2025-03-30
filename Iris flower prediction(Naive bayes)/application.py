@@ -9,7 +9,7 @@ from sklearn.preprocessing import MinMaxScaler
 #2 create the app object
 application = FastAPI()
 model = joblib.load("Iris flower prediction(Naive bayes)/Naive_bayes_model.pkl")
-scaler = joblib.load("minmax_scaler.pkl")
+scaler = joblib.load("Iris flower prediction(Naive bayes)/minmax_scaler.pkl")
 
 #3 Index route , open on port 8000
 @application.get('/')
